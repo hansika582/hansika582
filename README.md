@@ -52,6 +52,3 @@ while running:
 
     pygame.display.flip()  # Update the screen
     clock.tick(60)  # Frame rate control
-
-# Quit Pygame
-pygame.quit()
